@@ -1786,7 +1786,13 @@ h6 {
     margin-right: 10px !important;
   }
 }
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 600px) {
+  .sc-9db64799-1 {
+    font-size: 12px;
+    margin: 0 !important;
+    margin-right: 10px !important;
+    color: #000000 !important;
+  }
   .m-subheading-large {
     text-align: left;
     font-weight: 300;
